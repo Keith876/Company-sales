@@ -7,7 +7,7 @@ Company insights: The company insights Microsoft Excel file has information abou
 ### Tools
 -	Microsoft Excel-Data cleaning
 -	Python-Data analysis
--	Tableau-Creating dashboards.
+-	Tableau-creating dashboards.
 ### Findings
 - China, Russia, and Brazil were the consumers of the products the most.
 - Email marketing campaign contributed most to the sales.
